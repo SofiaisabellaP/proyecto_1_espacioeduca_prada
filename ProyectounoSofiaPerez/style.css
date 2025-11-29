@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(azure, rgb(211, 209, 209), rgb(161, 160, 160));
+}
+.indice{
+    display: flex;
+    list-style-type: none;
+}
+
+.indice li{
+    margin: 0 20px; /* Espacio alrededor de cada elemento */
+}
+
+.video{
+
+  
+      width: 100%;
+      height: auto;
+    
+}
+
+
+
+.seccionmujer{
+    width: 30%;
+    height: 60%;
+}
+.seccionhombre{
+    width: 30%;
+    height: 60%;
+}
+.imagenes{
+    width:100% ;
+    height:auto ;
+    display: block;
+}
+.videopradagaleria{
+    width: 70% ;
+    height: 40% ;
+}
