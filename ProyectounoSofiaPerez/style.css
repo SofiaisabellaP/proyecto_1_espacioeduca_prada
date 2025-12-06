@@ -4,6 +4,7 @@ body{
 .indice{
     display: flex;
     list-style-type: none;
+    
 }
 
 .indice li{
@@ -18,16 +19,11 @@ body{
     
 }
 
-
-
 .seccionmujer{
-    width: 30%;
-    height: 60%;
+    width: 400px;
+    height: 500px;
 }
-.seccionhombre{
-    width: 30%;
-    height: 60%;
-}
+
 .imagenes{
     width:100% ;
     height:auto ;
@@ -37,3 +33,72 @@ body{
     width: 70% ;
     height: 40% ;
 }
+
+.seccionmujerwoman{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.seccionhombre{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.divchaqueta {
+    width: 100px;
+    height: 100px;
+}
+
+.divbolso{
+    padding: 7px;
+     
+}
+
+.divzapatos{
+    padding: 7px; 
+}
+
+.divgafas{
+    padding: 7px;
+}
+
+.divsombrero{
+    padding: 7px;
+}
+
+
+.AutumnWinter{
+    text-align: center;
+}
+
+.PradasPhere{
+    text-align: center;
+}
+
+.Men{
+    text-align: center;
+}
+
+.men-img{
+     width: 400px;
+    height: 500px;
+}
+
+.divchaqueta{
+    padding: 7px;
+}
+
+.divbolsohombre{
+    padding: 7px;
+}
+
+.divzapatosmen{
+    padding: 7px;
+}
+
+.sombrerosmen{
+    padding: 7px;
+}
+
