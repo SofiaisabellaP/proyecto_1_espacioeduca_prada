@@ -1,0 +1,104 @@
+body{
+    background: linear-gradient(azure, rgb(211, 209, 209), rgb(161, 160, 160));
+}
+.indice{
+    display: flex;
+    list-style-type: none;
+    
+}
+
+.indice li{
+    margin: 0 20px; /* Espacio alrededor de cada elemento */
+}
+
+.video{
+
+  
+      width: 100%;
+      height: auto;
+    
+}
+
+.seccionmujer{
+    width: 400px;
+    height: 500px;
+}
+
+.imagenes{
+    width:100% ;
+    height:auto ;
+    display: block;
+}
+.videopradagaleria{
+    width: 70% ;
+    height: 40% ;
+}
+
+.seccionmujerwoman{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.seccionhombre{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.divchaqueta {
+    width: 100px;
+    height: 100px;
+}
+
+.divbolso{
+    padding: 7px;
+     
+}
+
+.divzapatos{
+    padding: 7px; 
+}
+
+.divgafas{
+    padding: 7px;
+}
+
+.divsombrero{
+    padding: 7px;
+}
+
+
+.AutumnWinter{
+    text-align: center;
+}
+
+.PradasPhere{
+    text-align: center;
+}
+
+.Men{
+    text-align: center;
+}
+
+.men-img{
+     width: 400px;
+    height: 500px;
+}
+
+.divchaqueta{
+    padding: 7px;
+}
+
+.divbolsohombre{
+    padding: 7px;
+}
+
+.divzapatosmen{
+    padding: 7px;
+}
+
+.sombrerosmen{
+    padding: 7px;
+}
+
